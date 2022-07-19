@@ -1,0 +1,14 @@
+
+.dark{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 150px;
+}
+
+.gold{
+    background-color: darkgoldenrod;
+    color: white;
+    text-align: start;
+    font-size: 135px;
+}
