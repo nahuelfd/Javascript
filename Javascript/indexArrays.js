@@ -148,3 +148,6 @@ for (let product of addproducts) {
     <p> Detalle: ${item.description} </p>`;
     document.body.appendChild(container);
 }
+
+
+
